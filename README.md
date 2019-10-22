@@ -1,5 +1,5 @@
 # Introduction
-This repository contains a script that allows mechanical solving of puzzles from regexcrossword.com.
+This repository contains a script that enables mechanically solving of puzzles on regexcrossword.com.
 ## How to use it
 1. Open the regular expression crossword puzzle in Chrome, [such as this one](https://regexcrossword.com/challenges/beginner/puzzles/1).
 1. Open Chrome developer tools for the tab of step 1.
